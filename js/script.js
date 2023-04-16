@@ -68,8 +68,6 @@ const resultsContainer = document.querySelector(".results");
 resultsContainer.innerHTML = "<p>New paragraph</p>";
 resultsContainer.style.backgroundColor = "yellow";
 
-console.log(resultsContainer);
-
 
 
 /* Question 7:
