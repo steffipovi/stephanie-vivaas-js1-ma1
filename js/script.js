@@ -1,15 +1,3 @@
-
-console.log("HELLO")
-
-
-const cat = {
-    complain: func() {
-        console.log("Meow!");
-    }
-}
-
-cat.complain();
-
 const cats = [
     {
         name: "Blob",
